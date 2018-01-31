@@ -5,3 +5,7 @@ DIGITAL , ZCLOUD , BANGMOD , NIPA  &amp;&amp; https://lowclass-vpn.ga
 
 
 SUPPORT ALL CLOUD VPS
+
+UBUNTU 12-14
+DEBIAN 7-8
+CENTOS ????
